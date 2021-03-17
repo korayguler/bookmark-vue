@@ -1,4 +1,4 @@
-# bookmark-vue
+# Bookmark Vue
 
 `assignment-3-bookmark-application`
 
